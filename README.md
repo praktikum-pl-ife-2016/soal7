@@ -10,13 +10,13 @@ Member sebuah idol group terdiri dari 3 tim yaitu :
 Semuanya memiliki kesamaan yaitu :
 
 * Atribut : 
-*- Memiliki nama
-*- Memiliki asal daerah
+..* Memiliki nama
+..* Memiliki asal daerah
 
 * Method :
-*- goJKT()
-*- yel()
-*- show() 
+..* goJKT()
+..* yel()
+..* show() 
 
 #### Keterangan :
 * Method goJKT akan menampilkan 
