@@ -14,9 +14,9 @@ Memiliki nama
 Memiliki asal daerah
 
 * Method :
-goJKT
-yel
-show 
+goJKT()
+yel()
+show() 
 
 #### Keterangan :
 * Method goJKT akan menampilkan 
@@ -38,7 +38,7 @@ GO TEAM TI GO
 ```
 * Method show digunakan untuk menampilkan `nama` dan `asal daerah` member
 
-Buatlah 3 objek dari masing-masing tim, masukkan 3 objek tersebut dalam array, dengan menggunakan perulangan panggil method `show`, `goJKT`, dan `yel`dari masing-masing objek dalam array.
+Buatlah 3 objek dari masing-masing tim, masukkan 3 objek tersebut dalam satu array, dengan menggunakan perulangan panggil method `show`, `goJKT`, dan `yel`dari masing-masing objek dalam array.
 
 
 ####Ketentuan :
