@@ -38,7 +38,7 @@ GO TEAM TI GO
 ```
 * Method show digunakan untuk menampilkan `nama` dan `asal daerah` member
 
-Buatlah 3 objek dari masing-masing tim, masukkan 3 objek tersebut dalam satu array, dengan menggunakan perulangan panggil method `show`, `goJKT`, dan `yel`dari masing-masing objek dalam array.
+Buatlah objek dari masing-masing tim, masukkan 3 objek tersebut dalam satu array, dengan menggunakan perulangan panggil method `show`, `goJKT`, dan `yel`dari masing-masing objek dalam array.
 
 
 ####Ketentuan :
