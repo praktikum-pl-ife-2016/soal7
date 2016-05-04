@@ -1,0 +1,22 @@
+public class Jkt {
+
+    //main
+    public static void main(String[] args)  {
+        member[] array = new member[3];
+        
+        timj j = new timj("Rangga","Bogor");
+        timk k = new timk("Dian","Jakarta");
+        timt t = new timt("AADC 2.0","Bioskop");
+                
+        array[0]=j;
+        array[1]=k;
+        array[2]=t;
+        
+        for(int i = 0; i<array.length;i++){
+        array[i].goJKT();
+        array[i].yel();
+        array[i].show();
+            System.out.println("");
+        }
+    }
+}
